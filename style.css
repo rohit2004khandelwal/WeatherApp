@@ -60,3 +60,19 @@ body{
     font-weight: 400;
     margin-top: -5px;
 }
+.details{
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    padding: 0 20px;
+}
+.col{
+    display: flex;
+    text-align: left;
+    align-items: center;
+}
+.col img{
+    width: 40px;
+    margin-right: 10px;
+}
